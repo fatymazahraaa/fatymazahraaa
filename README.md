@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Zahra</h1>
-<h3 align="center">An programmer from Pakistan</h3>
+<h3 align="center">A programmer from Pakistan</h3>
 
 - ⚡ Fun fact **I am a cake lover! Any kind, any time**
 
