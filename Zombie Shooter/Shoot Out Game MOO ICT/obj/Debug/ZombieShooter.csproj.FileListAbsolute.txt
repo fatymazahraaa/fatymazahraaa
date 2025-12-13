@@ -1,0 +1,22 @@
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.Form1.resources
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.GameOver.resources
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.Properties.Resources.resources
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.exe.config
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.exe
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.pdb
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.exe
+C:\Users\Ebad\Desktop\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.pdb
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.exe.config
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.exe
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\bin\Debug\ZombieShooter.pdb
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.AssemblyReference.cache
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.Form1.resources
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.GameOver.resources
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\Zombie_Shooter.Properties.Resources.resources
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.GenerateResource.cache
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.csproj.CoreCompileInputs.cache
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.exe
+C:\Users\Ebad\Desktop\Zombie Shooter(copy)\Zombie Shooter\Shoot Out Game MOO ICT\obj\Debug\ZombieShooter.pdb
